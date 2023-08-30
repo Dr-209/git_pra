@@ -1,7 +1,8 @@
+FRUIT:
 apple
 orange
 mango
-ssf
-SSS
-sdc
 
+VEGETABLE:
+
+DAIRY:
