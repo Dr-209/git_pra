@@ -4,5 +4,8 @@ orange
 mango
 
 VEGETABLE:
+potato
+tomato
+
 
 DAIRY:
