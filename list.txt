@@ -6,3 +6,6 @@ mango
 VEGETABLE:
 
 DAIRY:
+
+Meat:
+nothing
